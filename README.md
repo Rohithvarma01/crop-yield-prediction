@@ -7,7 +7,7 @@ This project predicts crop yield based on agricultural parameters using machine 
 - Python
 - Pandas, NumPy
 - Scikit-learn
-- Matplotlib, Seaborn
+- streanlit, Seaborn
 
 ## 📊 Dataset
 Agricultural dataset containing crop, rainfall, area, and production values.
