@@ -17,4 +17,3 @@ Agricultural dataset containing crop, rainfall, area, and production values.
 
 ## 📈 Output
 Predicts crop yield for given input values.
-
